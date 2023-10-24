@@ -11,7 +11,9 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "13.5.6"
+    "next": "13.5.6",
+    "zustand": "4.3.7",
+    "styled-components": "5.3.9"
   },
   "devDependencies": {
     "typescript": "^5",
